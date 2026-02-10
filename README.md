@@ -9,3 +9,12 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Created first data visualization
 - Practiced professional documentation with Markdown
 - Learned about GitHub for project management
+
+### Exercise 02
+
+- Understood ML Types
+- Grasped ML workflow
+- Built classification models
+- Evaluated model performance
+- Worked with Real Data
+- Applied Best Practices
