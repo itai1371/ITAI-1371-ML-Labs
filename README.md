@@ -1,6 +1,6 @@
 ## ITAI-1371-ML-Labs
 
-### Exercise 01
+### Module 02
 
 Notebook: ITAI-1371_Lab_Exercise-01
 - Set up machine learning development environment  
@@ -10,7 +10,7 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Practiced professional documentation with Markdown
 - Learned about GitHub for project management
 
-### Exercise 02
+### Module 03
 
 - Understood ML Types
 - Grasped ML workflow
