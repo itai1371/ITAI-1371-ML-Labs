@@ -24,3 +24,10 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Understood the importance of EDA (Exploratory Data Analysis)
 - Learned how to plot box and violin plots
 - Dabbled in first "coding" to finish the assignment
+
+### Module 05
+- Got deeper into coding
+- Identified NaN
+- Imputed values where NaN was present
+- Used One-Hot Encoding on categorical columns
+- Standardized data with Feature Scaling
