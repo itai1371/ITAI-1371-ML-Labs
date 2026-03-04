@@ -31,3 +31,9 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Imputed values where NaN was present
 - Used One-Hot Encoding on categorical columns
 - Standardized data with Feature Scaling
+
+### Module 06
+- More Coding
+- Imported Datasets, cleaned and split them
+- Practiced Training models on Linear and Logistic Regression
+- Understood why each model (Linear/Logistic) is used depending on our goals
