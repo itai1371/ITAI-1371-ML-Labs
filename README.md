@@ -37,3 +37,11 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Imported Datasets, cleaned and split them
 - Practiced Training models on Linear and Logistic Regression
 - Understood why each model (Linear/Logistic) is used depending on our goals
+
+### Module 07
+- Created first Confusion Matrix
+- Dived deeper into the importance of Precision and Recall
+- Generated first Classification Report
+- Performed and understood Cross Validation
+
+
