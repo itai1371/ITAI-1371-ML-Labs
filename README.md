@@ -72,3 +72,14 @@ Notebook: ITAI-1371_Lab_Exercise-01
 - Looked at how much information was kept after reducing dimensions
 
 ### Module 12
+- Introduced to fairness and ethics in ML
+- Learned that ML models can inherit bias from the data
+- Understood different types of bias (historical, measurement, representation)
+- Trained a model and evaluated overall accuracy
+- Compared model performance across subgroups (male vs female)
+- Learned that accuracy alone can be misleading
+- Calculated False Positive Rate (FPR) and False Negative Rate (FNR)
+- Saw how different groups can be affected differently by model errors
+- Understood real-world impact of biased predictions (loans, hiring, etc.)
+- Learned that removing sensitive features doesn’t fully fix bias
+
