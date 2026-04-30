@@ -7,6 +7,7 @@ It includes lab assignments, homework, and projects completed throughout the cou
 
 ## Repository Structure
 
+```
 ITAI-1371-ML-Labs/
 ├── README.md
 ├── Labs/
@@ -23,3 +24,4 @@ ITAI-1371-ML-Labs/
     └── Final_Project/
         ├── README.md
         └── lab.ipynb
+```
